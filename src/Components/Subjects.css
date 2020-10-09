@@ -1,0 +1,16 @@
+.subposition{
+    padding-top: 50px;
+    
+}
+.card{
+    width: 18rem;
+    text-align: center;
+    margin: 0 auto;      
+}
+.card-title{
+    background-color: lightblue;
+    padding:20px;
+}
+.add_btn_pos{
+    margin-top: 30px;
+}

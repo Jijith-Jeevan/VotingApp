@@ -1,0 +1,18 @@
+.navbar{
+background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.navcontent{
+    padding-top: 30px;;
+}
+.navcolor{
+    color:white;
+}
+.navcolor:hover{
+    color:greenyellow;
+}
+#title{
+    color:yellow;
+}
